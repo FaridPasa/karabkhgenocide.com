@@ -1,0 +1,71 @@
+/*загаловки*/
+h1,h2{
+	color: #0003FF;
+	font-size: 30px;
+	
+}
+
+h3,h4{
+	color:red;
+	font-size: 30px;
+	
+}
+
+h5,h6{
+	color:green;
+	font-size: 30px;	
+}
+
+}
+/*главный текст*/
+p  {
+	font-family: ;
+	color:black;
+	font-size: 70px;
+	text-align: left;
+	padding-left: 1000px;
+}
+/*список территорий*/
+ul{
+	color:#b30000;
+	font-size: 30px;
+	padding-left: 150px;
+}
+/*Гарабагские территории*/
+.a{
+	color:#b30000;
+	background-image: url(az.jpg);
+	width: 313px
+}
+/*курсор для сылок*/
+.help{
+	cursor:crosshair;
+	text-align: center;
+}
+/*видео*/
+video{
+	width: 450px;
+	float: right;
+	border-style: inset;
+	border-width: 6px;
+	border-color: #FF0000;
+	display: inline-block;
+}
+/*задний фон*/
+body{
+	background-image: url(s.jpg);
+	background-size: 100%
+}
+/*image*/
+.as{
+	text-align: center;
+}
+
+.header{
+	width: 1000px;
+	height: 1000px;
+	color: #FF0000;
+}
+.flags{
+	float:left;
+}
